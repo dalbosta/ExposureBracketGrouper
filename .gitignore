@@ -1,8 +1,12 @@
 /venv
 .idea/
 .DS_Store
-**/.ipynb_checkpoints/
+.ipynb_checkpoints/
 **/__pycache__/
+/output
+/images
+/hdr_output
+/embedding_cache
 
 
 images/*
